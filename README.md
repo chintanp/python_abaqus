@@ -1,4 +1,4 @@
-# python ABACUS- A virtual way to use ABACUS
+# python ABAQUS- A virtual way to use ABAQUS (https://www.simuleon.com/simulia-abaqus/)
 
 Code to control abaqus model through python API. 
 
