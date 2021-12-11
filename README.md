@@ -1,4 +1,4 @@
-# python_abaqus
+# python ABACUS- A virtual way to use ABACUS
 
 Code to control abaqus model through python API. 
 
